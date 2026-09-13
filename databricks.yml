@@ -10,7 +10,8 @@ targets:
     mode: development
     default: true
     workspace:
-      host: https://dbc-629d4597-400f.cloud.databricks.com
+      # host: https://dbc-629d4597-400f.cloud.databricks.com
+      host: https://dbc-629d4597-400f.cloud.databricks.com/Workspace/deply_harness/
 
   ## Optionally, there could be 'staging' or 'prod' targets here.
   #
